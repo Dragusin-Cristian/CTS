@@ -1,4 +1,4 @@
-package ex1.cts.cristian.dragusin.g1032.singleton;
+package HW.ex1.cts.cristian.dragusin.g1032.singleton;
 
 public class TestingModule implements ITesingModule{
     private static TestingModule instance;

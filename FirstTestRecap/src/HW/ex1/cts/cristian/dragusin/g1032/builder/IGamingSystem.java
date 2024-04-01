@@ -1,4 +1,4 @@
-package ex1.cts.cristian.dragusin.g1032.builder;
+package HW.ex1.cts.cristian.dragusin.g1032.builder;
 
 public interface IGamingSystem {
     public void printConfiguration();
